@@ -1,0 +1,23 @@
+Problem Name:
+Demy and Computers
+
+Problem Statement:
+Avinash owns N computers (numbered 11 through N). He wishes to sell all of them over N years by selling exactly one computer per year. For each valid i, the initial price of the i-th computer is Pi. Due to depreciation, the price of each computer decreases by 11 unit per year until it is sold.
+
+Note that the price of a computer cannot drop below 0 no matter how many years have passed, i.e. when the price of a computer reaches 0 in some year, it remains 0 in all subsequent years.
+
+Find the maximum profit Avinash can make if he sells his computers in an optimal way. Since this number may be large, compute it modulo 1e9+7
+
+Constraints:
+1 <= t <= 25
+1 <= n <= 1e5
+1 <= ar[i] <= 1e9
+
+The sum of lengths of all the arrays will not exceed 2e6
+
+Input Format:
+The first line consists of the number of testcases t followed by 2t lines. In each testcase, the first line has a single integer n and second line has n space separated integers.
+
+Output Format:
+Output a single integer for each testcase.
+

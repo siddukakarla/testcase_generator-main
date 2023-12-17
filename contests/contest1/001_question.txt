@@ -1,0 +1,16 @@
+Problem Name:
+Find the missing point
+
+Problem Statement:
+There are N axis-parallel rectangles in a 2D Cartesian coordinate system. These rectangles may intersect, but it is guaranteed that all their 4N vertices are pairwise distinct. You will be given indexes of all the rectangles except for one point. Find the missing point.
+
+Constraints:
+1 <= t <= 1e2
+1 <= n <= 1e5
+1 <= x, y<= 1e9
+
+Input Format:
+The first line consists of the number of testcases t. In each testcase, the first line is n. The 4N-1 lines have 2 space separated integers. 
+
+Output Format:
+Print 2 space separated integers as the input.

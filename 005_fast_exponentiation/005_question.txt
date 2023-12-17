@@ -1,0 +1,17 @@
+Problem Name:
+Fast Exponentiation
+
+Problem Statement:
+For each testcase, you will be given 2 integers a and b. Compute a power b (a multiplied by itself for b times)
+
+Constraints:
+1 <= t <= 1e6
+1 <= a <= 1e7
+1 <= b <= 1e14
+
+Input Format:
+The first line comprises of the number of testcases(t). The following t lines each has 2 numbers a and b.
+
+
+Output Format:
+Print a single integer i.e. the value of a power b.

@@ -1,0 +1,18 @@
+Problem Name:
+Number not repeating thrice
+
+Problem Statement:
+For each testcase, you will be given an array of numbers (ar) in which each number will be repeated thrice except for one number. Find the number that is not repeating and print it as the result.
+
+Constraints:
+1 <= t <= 1e3
+1 <= n <= 1e5
+1 <= ar[i] <= 1e9
+
+sum of total lengths of the array will not exceed 2*1e6
+
+Input Format:
+
+
+Output Format:
+

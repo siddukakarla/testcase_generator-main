@@ -1,0 +1,19 @@
+Problem Name:
+Binary Representation
+
+
+Problem Statement:
+Print the Binary representation of the given number 'n'
+
+
+Constraints:
+1 <= n <= 1e9
+
+
+Input Format:
+The input consists of a single line which the integer value
+
+
+Output Format:
+Print the binary representation of the respective integer value.
+

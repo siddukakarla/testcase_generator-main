@@ -1,0 +1,19 @@
+Problem Name:
+Sum of elements
+
+Problem Statement:
+For each testcase, you will be given an array of integers. You have to print the sum of all the elements of the array.
+
+Constraints:
+1 <= t <= 1e3
+1 <= n <= 1e6
+1 <= ar[i] <= 1e12
+
+The sum of lengths of arrays of all the testcases will not exceed 2e6
+
+Input Format:
+The first line of the input consists of the umber of testcases. For each testcase, the first line is the number of elements of the array and following line has n space separated elements.
+
+Output Format:
+print a single integer which is the sum of all the elements of the array
+

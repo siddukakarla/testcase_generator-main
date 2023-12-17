@@ -1,0 +1,17 @@
+Problem Name:
+Subset sum
+
+Problem Statement:
+For every testcase, you will be given an array of integers of size n and an integer k. If there exists a subset in the array whose sum is equal to k
+
+Constraints:
+1 <= t <= 100
+1 <= n <= 10
+1 <= ar[i], k <= 1e9
+
+Input Format:
+The first line of the input consists of the number of testcases t. The following t*2 lines are the testcases. The first line of the testcase are 2 integers n and k. Following line has n space separated integers which are the elements of the array.
+
+Output Format:
+Print "YES" if there is a subset with sum k, else print "NO"
+

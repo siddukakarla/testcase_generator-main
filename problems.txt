@@ -1,0 +1,74 @@
+MODULE 3
+    Binary search
+        Aggressive cows
+        
+
+MODULE 4
+    Problems
+    First missing positive number
+    Comparing if given substring are same or not
+    Meet in the middle
+
+
+MODULE 5
+    Stacks
+        Stock span
+    Circular queues
+    getMax() in constant time using a stack
+    Queue using stack
+    
+MODULE 6
+    Linked Lists
+        Print the linked list
+        length of a linked list
+        print reverse of a linked list
+        insert an element in a linked list
+        insert an element at a given position 
+        delete an element at a given position
+        distinct elements of a node
+        reversal of a linked list
+        Middle element of a linked list
+        Merging a linked list
+        Detect loop and break loop
+        Doubly linked list
+        LRU Cache
+        Clone a linked list with random pointer
+        Reverse alternate k elements of a linked list
+
+
+MODULE 7
+    Check if the given Binary tree is a BST or not
+    LCA in Binary tree
+    
+MODULE 8
+    Binary Trees
+        LCA in BST
+    Heap
+    Trie
+        Introduction and Coding
+
+
+MODULE 9
+    Trie
+        Partition the string with the dictionary of words
+    Dynamic Programming (1D)
+        Overlapping subproblems
+            No.of ways to roll a dice
+        Optimal Substructure
+            Longest Increasing subsequence
+
+MODULE 10
+    Dynamic Programming (2D)
+        Coin change Problem (subsets)
+        Rat in a maze problem
+        Find sum of submatrix from indexes (i,j) to (k,l)
+        Maximum sum Game
+    Graphs
+        Introduction 
+        Graph representations
+        
+        is Bipartite
+        
+        Shortest path from source to destination
+        Dijkstra
+        Topological sort
